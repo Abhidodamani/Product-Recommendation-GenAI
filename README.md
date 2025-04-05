@@ -66,6 +66,22 @@ pip install -r requirements.txt
 streamlit run main.py
 ```
 
+ Repository Structure:
+
+ Product-Recommendation-GenAI/
+├── app/
+│   └── recommend_agent.py
+├── data/
+│   └── sample_user_behavior.csv
+├── models/
+│   └── preference_model.pkl
+├── utils/
+│   └── helper_functions.py
+├── requirements.txt
+├── README.md
+└── .gitignore
+
+
 ## Team Members
 
 
